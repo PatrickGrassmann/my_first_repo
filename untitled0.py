@@ -6,4 +6,5 @@ Created on Sun Oct 11 00:10:36 2020
 @author: Patrick_Grassmann
 """
 
-anything
+def func(a,b):
+    return a + b
